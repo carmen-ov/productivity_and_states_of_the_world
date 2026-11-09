@@ -25,3 +25,40 @@ Places to look at:
     - ENERGY GENERATION IN US OR EUROPE MIGHT HAVE OPEN DATA AT THE PLANT LEVEL (ENERGY GENERATED AT WHAT PRICE?)
 - Gas stations
 - Bloomberg > Bloomberg terminals are available in Doriot & Tanoto Research & Learning Hubs only. In the Tanoto Research & Learning Hub, use the designated computer in the Financial & Research Data Circle (INSEAD SSO required).
+
+## Which sectors are more forward looking
+
+Google: what sectors depend more on future states of the world?
+
+> Technology (especially Artificial Intelligence and Quantum Computing), Renewable Energy, Biotechnology, and Space Exploration are the sectors that depend most heavily on future states of the world. Because these industries rely on long-term R&D, unproven technologies, and evolving regulatory landscapes, their current valuation is almost entirely tied to scenarios that have not yet occurred.
+
+<mark>**long-term R&D, unproven technologies, evolving regulatory landscapes**
+- _Using the regulatory landscape could be good for having a clean identification strategy_
+
+Industries with high competition and growth: https://www.mckinsey.com/mgi/our-research/capturing-the-next-big-arenas-of-competition-in-ten-charts
+- They might be interesting as they concentrate a LOT of R&D 
+    > " In the United States, about two-thirds of all R&D spending was allocated to arenas and arena-adjacent industries."
+
+One firm carrying aggregate productivity gains: https://www.mckinsey.com/mgi/our-research/the-power-of-one-how-standout-firms-grow-national-productivity
+- kd
+
+## Plant-level data
+
+**Encuesta Anual Manufacturera - Colombia (1977 - 2024)**
+   - Used in Midrigan and Yi Xu (2014, AEA): "Finance and Misallocation: Evidence from Plant-Level Data"
+  -  Está constituido por la totalidad de los establecimientos industriales que funcionan en el país y que son reconocidos como tal por la Clasificación Industrial Internacional Uniforme de todas las actividades económicas (CIIU) Revisión 4 Adaptada para Colombia.
+  - Está conformada por los establecimientos que se definen como industriales y que funcionan en el país, según la CIIU Rev.4 A.C. éstos deben tener diez o más personas ocupadas o un valor de producción superior al estipulado anualmente. 
+
+**ORBIS**
+- Financial information for over 60,000 public companies and over 40 million private companies worldwide.
+- <mark>Access will be discontinued on February 28, 2027
+
+**International Data Access Network**
+- Network between data centers in France (CASD), Germany, Netherlants, UK
+
+**Bloomberg**
+- I don't know what we have there, I have to go down to the terminal to see
+- Part of the broader "commercial microdata": Dealscan, NL Analytics, CapitsalIQ, Datastream, Worldscope#
+
+
+**World Bank Enterprise Survey**
