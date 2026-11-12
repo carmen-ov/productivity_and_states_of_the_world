@@ -62,3 +62,25 @@ One firm carrying aggregate productivity gains: https://www.mckinsey.com/mgi/our
 
 
 **World Bank Enterprise Survey**
+
+
+## Roadmap
+
+ChatGPT quotes
+- Measured productivity can reflect how firms position their resources across possible futures, not merely how technologically efficient they are.
+- The same investment may produce different amounts of output under different circumstances.[...] Without states of the world, there would be no distinction between capital that is productive today and capital that is valuable for another possible future.
+- Increasing future disaster preparedness can mean giving up some productive opportunities in normal states.
+- The firm can rationally fund a project of lower quality because it has an especially valuable state-contingent payoff.
+- Suppose a firm has access to many projects ranked by quality. It funds the most attractive project first, then the next-best one, and so on. As the firm expands, the projects it adds tend to be less productive.
+- When a particular type becomes more valuable, the firm can afford to fund lower-quality projects of that type. This produces the quality ladder.
+
+
+
+Outstanding questions
+- I do not fully understand the risk-neutral probability: I understand that it is like a weight, but what is it for? What is the interpretation of each risk neutral probability?
+- You say "The model's date-0 state price is not automatically identical to an electricity spot price observed during a scarcity hour". Is this interpretation more appropriate?: supposing that the price of oil is very elastic to oil supply, in a state of the world (s) where the global supply of oil diminishes by 10% (-10mb/d) the price of oil would increase 1USD, so imagining that it used to be at 60USD/barrel, could we say that the state price in state s is 61USD?
+- In the sentence: "the firm funds everyproject worth at least the rental rate of capitall", does this mean that the marginal project will be the one that is worth (gives money to the firm) the same as the marginal costo fo capital?
+- I don't understand why a smaller (\eta\) leads to smaller funding elasticity. Also, what is \eta\?
+- I do not fully understand the envelope theorem
+- when the firm shifts toward poducing more in the disaster state, I do not understand why TFP does not increase in the non-disaster state given the quality gradient. The first projects to be defunded should be the projects that have the lowest quality and thus, their supressig effect on TFP must go away, right?
+- I understand the mechanism of feedback in D10, but I don't know how we made the jump from that mechanism to the assumption or the prediction
