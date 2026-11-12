@@ -73,6 +73,7 @@ ChatGPT quotes
 - The firm can rationally fund a project of lower quality because it has an especially valuable state-contingent payoff.
 - Suppose a firm has access to many projects ranked by quality. It funds the most attractive project first, then the next-best one, and so on. As the firm expands, the projects it adds tend to be less productive.
 - When a particular type becomes more valuable, the firm can afford to fund lower-quality projects of that type. This produces the quality ladder.
+- Risk-neutral probability: Although the disaster occurs only 10% of the time, its contingent payoff accounts for 15.8% of the price of a portfolio that pays one unit for certain. So the probability of each state price in the risk-neutral probability does NOT refer to actual probabilities, but to the weight of the state price in a portfolio that pays 1 unit for certain.
 
 
 
