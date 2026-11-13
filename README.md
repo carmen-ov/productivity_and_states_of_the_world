@@ -78,10 +78,11 @@ ChatGPT quotes
 
 
 Outstanding questions
-- I do not fully understand the risk-neutral probability: I understand that it is like a weight, but what is it for? What is the interpretation of each risk neutral probability?
-- You say "The model's date-0 state price is not automatically identical to an electricity spot price observed during a scarcity hour". Is this interpretation more appropriate?: supposing that the price of oil is very elastic to oil supply, in a state of the world (s) where the global supply of oil diminishes by 10% (-10mb/d) the price of oil would increase 1USD, so imagining that it used to be at 60USD/barrel, could we say that the state price in state s is 61USD?
-- In the sentence: "the firm funds everyproject worth at least the rental rate of capitall", does this mean that the marginal project will be the one that is worth (gives money to the firm) the same as the marginal costo fo capital?
-- I don't understand why a smaller (\eta\) leads to smaller funding elasticity. Also, what is \eta\?
-- I do not fully understand the envelope theorem
-- when the firm shifts toward poducing more in the disaster state, I do not understand why TFP does not increase in the non-disaster state given the quality gradient. The first projects to be defunded should be the projects that have the lowest quality and thus, their supressig effect on TFP must go away, right?
-- I understand the mechanism of feedback in D10, but I don't know how we made the jump from that mechanism to the assumption or the prediction
+
+In step 3 of the first question, we can say that a funded unit of every type is worth that because the z* has dissapeared, and with that the u?
+I did not understand your explanation of "capital earns the share \(1-1/\eta\) of firm value."
+What is project mass of type u? In general what is project mass?
+I did not understand your explanation of equation 3, but I did understand the idea that you can know the value shares without knowing the pool
+I don't understand what the denominator of S is.
+
+Instructions: When talking about formulas clearly define the terms, even in simple formular like variance formulas
